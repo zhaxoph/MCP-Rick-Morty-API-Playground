@@ -27,3 +27,5 @@ get-characters # to get all the characters with pagination
 To learn more about MCP and how to configure them, take a look at the following resources:
 
 - [MCP Quickstart](https://modelcontextprotocol.io/quickstart/server#core-mcp-concepts) - Learn about how to configure MCP core concepts and how to use Claude For desktop with this repo.
+
+-  ![image](https://github.com/user-attachments/assets/a093a5d8-5727-47c1-9fde-03227aad1d58)
